@@ -11,7 +11,7 @@ git clone https://github.com/cyberhappy/Hackers-Tools
 ```bash
 cd Hackers-Tools/
 - Give execute permission in script -
-````bash
+```bash
 chmod +x Hackers-Tools
 - run the script -
 ```bash
