@@ -16,4 +16,4 @@ chmod +x Hackers-Tools
 <pre><code>$ ./Hackers\ Tools.sh
 </code></pre>
 - On first launch, It'll install the boxes and that's it. Hackers-Tools is worked.
-<h3 dir="auto"><a id="user-content-special-thanks-" class="anchor" aria-hidden="true" href="#special-thanks-">
+### Special Thanks :
