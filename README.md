@@ -10,7 +10,7 @@ Hacking Tools are computer programs and scripts that help you find and exploit w
 </code></pre>
 - Change to cloned directory and give Hackers\ Tools.sh permission -
 <pre><code>cd Hackers-Tools
-chmod +x chmod +x Hackers\ Tools.sh
+chmod +x Hackers\ Tools.sh
 </code></pre>
 - now just run the script to work for you
 <pre><code>$ ./Hackers\ Tools.sh
