@@ -9,7 +9,7 @@ Hacking Tools are computer programs and scripts that help you find and exploit w
 ```Shell
 git clone https://github.com/cyberhappy/Hackers-Tools
 
--- Change to cloned directory and run Hackers Tools.sh 
+- Change to cloned directory and run Hackers Tools.sh -
 ```python
 cd Hackers-Tools/
 --- Give execute permission in script -
