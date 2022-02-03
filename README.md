@@ -6,9 +6,6 @@ Hacking Tools are computer programs and scripts that help you find and exploit w
 ## Installation
 
 - Just, Clone this repository -
-```Shell
-git clone https://github.com/cyberhappy/Hackers-Tools
-###  Just, Clone this repository -
-- Just, Clone this repository -
-```Shell
-git clone https://github.com/cyberhappy/Hackers-Tools
+<pre><code>$ cd zphisher
+$ bash zphisher.sh
+</code></pre>
