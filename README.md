@@ -13,7 +13,7 @@ Hacking Tools are computer programs and scripts that help you find and exploit w
 chmod +x Hackers\ Tools.sh
 </code></pre>
 - now just run the script to work for you
-<pre><code>$ ./Hackers\ Tools.sh
+<pre><code>./Hackers\ Tools.sh
 </code></pre>
 - On first launch, It'll install the boxes and that's it. Hackers-Tools is worked.
 ### Special Thanks :
