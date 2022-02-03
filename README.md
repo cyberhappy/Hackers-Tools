@@ -6,7 +6,6 @@ Hacking Tools are computer programs and scripts that help you find and exploit w
 - Just, Clone this repository -
 ```bash
 git clone https://github.com/cyberhappy/Hackers-Tools
-<br/>
 - Change to cloned directory and run Hackers Tools.sh -
 ```bash
 cd Hackers-Tools/
