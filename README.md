@@ -6,11 +6,11 @@ Hacking Tools are computer programs and scripts that help you find and exploit w
 ## Installation
 
 - Just, Clone this repository -
-<pre><code>$ git clone https://github.com/cyberhappy/Hackers-Tools
+<pre><code>git clone https://github.com/cyberhappy/Hackers-Tools
 </code></pre>
 - Change to cloned directory and give Hackers\ Tools.sh permission -
-<pre><code>$ cd Hackers-Tools
-$ chmod +x Hackers-Tools
+<pre><code>cd Hackers-Tools
+chmod +x Hackers-Tools
 </code></pre>
 - now just run the script to work for you
 <pre><code>$ ./Hackers\ Tools.sh
