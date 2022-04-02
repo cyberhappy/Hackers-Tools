@@ -8,12 +8,12 @@ Hacking Tools are computer programs and scripts that help you find and exploit w
 - Just, Clone this repository -
 <pre><code>git clone https://github.com/cyberhappy/Hackers-Tools
 </code></pre>
-- Change to cloned directory and give Hackers\ Tools.sh permission -
-<pre><code>cd Hackers-Tools
-chmod +x Hackers\ Tools.sh
+- Change to cloned directory and give Delete\ files.sh permission -
+<pre><code>cd Delete-files/
+chmod +X Delete\ files.sh
 </code></pre>
 - now just run the script to work for you
-<pre><code>./Hackers\ Tools.sh
+<pre><code>./Delete\ files.sh
 </code></pre>
-- On first launch, It'll install the boxes and that's it. Hackers-Tools is worked.
-### Special Thanks :
+- On first launch, It'll install the boxes and that's it. the script is worked.
+
