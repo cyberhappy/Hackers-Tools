@@ -8,7 +8,7 @@ Hacking Tools are computer programs and scripts that help you find and exploit w
 - Just, Clone this repository -
 <pre><code>git clone https://github.com/cyberhappy/Hackers-Tools
 </code></pre>
-- Change to cloned directory and give Delete\ files.sh permission -
+- Change to cloned directory and give Hackers\ Tools.sh permission -
 <pre><code>cd Hackers\ Tools.sh
 chmod +x Hackers\ Tools.sh
 </code></pre>
